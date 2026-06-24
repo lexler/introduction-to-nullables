@@ -1,0 +1,41 @@
+run.sh
+  s_3e4e16036d279b::t_a7ee31621d5b26 1-5
+mise.toml
+  s_3e4e16036d279b::t_c6a29b798b7564 1-2,4-5,8-10,12-14
+  s_3e4e16036d279b::t_86acaa6079a9d9 3,6-7,11,15
+src/test/java/com/example/hello/HelloApplicationTests.java
+  s_3e4e16036d279b::t_42eedd32967f46 1-13
+src/main/java/com/example/hello/NameSource.java
+  s_3e4e16036d279b::t_1a5100e0c023ad 1-7
+src/main/java/com/example/hello/Greeter.java
+  s_3e4e16036d279b::t_ae8ef8798e93a5 1-15
+src/main/java/com/example/hello/World.java
+  s_3e4e16036d279b::t_021e999995f179 1-10
+src/main/java/com/example/hello/HelloApplication.java
+  s_3e4e16036d279b::t_c2ed8b5fd29f7e 1-13
+src/test/java/com/example/hello/GreeterTest.java
+  s_3e4e16036d279b::t_3e0393f84578fd 1-28
+build_and_test.sh
+  s_3e4e16036d279b::t_cd0b5db98e46f9 1-12
+src/main/resources/application.properties
+  s_3e4e16036d279b::t_6fd6cf0edb86cb 1
+pom.xml
+  s_3e4e16036d279b::t_db232b2319521f 51
+  s_3e4e16036d279b::t_2861045aaa6e17 1-50,52-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.11",
+  "base_commit_sha": "50a0712611ff51812632fed83470b612ced8a6d6",
+  "prompts": {},
+  "sessions": {
+    "s_3e4e16036d279b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cf69d428-ce87-4499-b752-2f0766cb4694",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Lada Kesseler <archie.kesseler@gmail.com>"
+    }
+  }
+}
