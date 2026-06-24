@@ -1,0 +1,20 @@
+README.md
+  s_0c07e6dbb140e0::t_8ce45b774b83b1 24,26,29
+  s_0c07e6dbb140e0::t_e26524d18109bd 27-28,30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.11",
+  "base_commit_sha": "52241566f8c725ccde2bd492ca45c51aa60c4335",
+  "prompts": {},
+  "sessions": {
+    "s_0c07e6dbb140e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dcdc4711-e146-417a-b470-8e910dc0a172",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Lada Kesseler <archie.kesseler@gmail.com>"
+    }
+  }
+}
