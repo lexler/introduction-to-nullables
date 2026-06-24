@@ -1,0 +1,24 @@
+src/main/java/com/lexler/nullalbes/exercise/Greeter.java
+  s_3e4e16036d279b::t_84128e363e0157 1-2,7-10,15-17
+  s_3e4e16036d279b::t_1db53d1e93ff14 3-6,11-14
+src/test/java/com/lexler/nullalbes/exercise/GreeterTest.java
+  s_3e4e16036d279b::t_ba4f3796c4948e 1-16
+mise.toml
+  s_3e4e16036d279b::t_447c68c71f78e9 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.11",
+  "base_commit_sha": "80efa69cddbcfbb095c4b33ca7af643a82882e78",
+  "prompts": {},
+  "sessions": {
+    "s_3e4e16036d279b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cf69d428-ce87-4499-b752-2f0766cb4694",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Lada Kesseler <archie.kesseler@gmail.com>"
+    }
+  }
+}
