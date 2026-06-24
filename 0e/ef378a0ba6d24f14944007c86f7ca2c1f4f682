@@ -1,0 +1,23 @@
+src/test/java/com/lexler/nullalbes/exercise/EnterprisePhonebookNullableCompletedFixtureTest.java
+  s_0c07e6dbb140e0::t_4f340c3f71bce5 46-53
+src/test/java/com/lexler/nullalbes/exercise/EnterprisePhonebookMockedTest.java
+  s_0c07e6dbb140e0::t_24ad397e54b3b1 49,56,58,62,69,71
+src/test/java/com/lexler/nullalbes/exercise/EnterprisePhonebookNullableCompletedTest.java
+  s_0c07e6dbb140e0::t_bd1cc404beb77a 42,50,52-55,59,67,69-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.11",
+  "base_commit_sha": "0eef378a0ba6d24f14944007c86f7ca2c1f4f682",
+  "prompts": {},
+  "sessions": {
+    "s_0c07e6dbb140e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dcdc4711-e146-417a-b470-8e910dc0a172",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Lada Kesseler <archie.kesseler@gmail.com>"
+    }
+  }
+}
