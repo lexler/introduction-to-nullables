@@ -1,0 +1,35 @@
+src/main/java/com/lexler/nullalbes/exercise/BadPhonebookEntryEvent.java
+  s_0c07e6dbb140e0::t_9048f1788e01b0 5
+  s_0c07e6dbb140e0::t_7ac00c6fa8b706 11
+src/test/java/com/lexler/nullalbes/exercise/EnterprisePhonebookNullableTest.java
+  s_0c07e6dbb140e0::t_bde2ab60adaf58 19,42,57
+src/test/java/com/lexler/nullalbes/exercise/EnterprisePhonebookExerciseTest.java
+  s_0c07e6dbb140e0::t_bde2ab60adaf58 27,49,62
+src/main/java/com/lexler/nullalbes/exercise/EnterprisePhonebook.java
+  s_0c07e6dbb140e0::t_882ec6f930a31c 11
+  s_0c07e6dbb140e0::t_bde2ab60adaf58 32-33,35,39
+src/test/java/com/lexler/nullalbes/exercise/EnterprisePhonebookMockedTest.java
+  s_0c07e6dbb140e0::t_bde2ab60adaf58 24,49,62
+src/test/java/com/lexler/nullalbes/exercise/EnterprisePhonebookNullableFixtureTest.java
+  s_0c07e6dbb140e0::t_bde2ab60adaf58 20,35,45
+src/main/java/com/lexler/nullalbes/exercise/Phonebook.java
+  s_0c07e6dbb140e0::t_bde2ab60adaf58 12-13,27,30-31
+src/test/java/com/lexler/nullalbes/exercise/PhonebookTest.java
+  s_0c07e6dbb140e0::t_bde2ab60adaf58 16,35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.11",
+  "base_commit_sha": "ae66c75f7286a992d7c70471567a3886b353ac1c",
+  "prompts": {},
+  "sessions": {
+    "s_0c07e6dbb140e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dcdc4711-e146-417a-b470-8e910dc0a172",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Lada Kesseler <archie.kesseler@gmail.com>"
+    }
+  }
+}
