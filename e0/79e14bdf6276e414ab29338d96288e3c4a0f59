@@ -1,0 +1,78 @@
+src/main/java/com/lexler/nullalbes/exercise/infrastructure/Authorizer.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-47
+src/main/java/com/lexler/nullalbes/exercise/BadPhonebookEntryEvent.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-15
+src/main/java/com/lexler/nullalbes/exercise/infrastructure/http/StubbedHttpTransport.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-34
+src/test/java/com/lexler/nullalbes/exercise/testing/LightweightHttpServer.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-41
+src/test/java/com/lexler/nullalbes/exercise/EnterprisePhonebookMockedTest.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-73
+src/main/java/com/lexler/nullalbes/exercise/util/OutputTracker.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-33
+src/main/java/com/lexler/nullalbes/exercise/infrastructure/http/HttpClientResponse.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-15
+src/test/java/com/lexler/nullalbes/exercise/infrastructure/AuthorizerTest.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-44
+pom.xml
+  s_fcd80651bb09fd::t_8bf13fdb2f4554 17
+  s_fcd80651bb09fd::t_6bdca1380186aa 27-30
+src/main/java/com/lexler/nullalbes/exercise/infrastructure/http/HttpClientRequest.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-12
+src/test/java/com/lexler/nullalbes/exercise/infrastructure/AlerterTest.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-66
+src/test/java/com/lexler/nullalbes/exercise/testing/HandlerTestDouble.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-60
+src/main/java/com/lexler/nullalbes/exercise/util/OutputListener.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-29
+src/main/java/com/lexler/nullalbes/exercise/infrastructure/http/HttpClientException.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-9
+src/main/java/com/lexler/nullalbes/exercise/util/ConfigurableResponses.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-39
+src/main/java/com/lexler/nullalbes/exercise/infrastructure/http/HttpClient.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-42
+src/test/java/com/lexler/nullalbes/exercise/PhonebookTest.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-42
+src/main/java/com/lexler/nullalbes/exercise/AlertData.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-9
+src/main/java/com/lexler/nullalbes/exercise/infrastructure/Alerter.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-72
+src/main/java/com/lexler/nullalbes/exercise/infrastructure/http/HttpTransport.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-10
+src/test/java/com/lexler/nullalbes/exercise/EnterprisePhonebookNullableTest.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-51
+src/main/java/com/lexler/nullalbes/exercise/infrastructure/http/RealHttpTransport.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-39
+src/main/java/com/lexler/nullalbes/exercise/Phonebook.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-37
+src/main/java/com/lexler/nullalbes/exercise/EnterprisePhonebook.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-42
+src/main/java/com/lexler/nullalbes/exercise/infrastructure/AlerterException.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-9
+src/test/java/com/lexler/nullalbes/exercise/infrastructure/http/HttpClientTest.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-37
+src/test/java/com/lexler/nullalbes/exercise/EnterprisePhonebookNullableCompleteTest.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-56
+src/test/java/com/lexler/nullalbes/exercise/EnterprisePhonebookTest.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-71
+src/test/java/com/lexler/nullalbes/exercise/testing/HttpServerLifecycle.java
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1-31
+src/test/resources/mockito-extensions/org.mockito.plugins.MockMaker
+  s_fcd80651bb09fd::t_c8331bfb216b7e 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.11",
+  "base_commit_sha": "e079e14bdf6276e414ab29338d96288e3c4a0f59",
+  "prompts": {},
+  "sessions": {
+    "s_fcd80651bb09fd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "608c2848-8972-4036-9b19-41b86feb0bb4",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Lada Kesseler <archie.kesseler@gmail.com>"
+    }
+  }
+}
