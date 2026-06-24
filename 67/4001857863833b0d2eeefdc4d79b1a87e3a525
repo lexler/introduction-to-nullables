@@ -1,0 +1,19 @@
+.gitignore
+  s_a58937cc15e771::t_d520f4b4dfa97c 72-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.11",
+  "base_commit_sha": "674001857863833b0d2eeefdc4d79b1a87e3a525",
+  "prompts": {},
+  "sessions": {
+    "s_a58937cc15e771": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ee8c5948-7029-468f-979b-8b6862357d1a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Lada Kesseler <archie.kesseler@gmail.com>"
+    }
+  }
+}
