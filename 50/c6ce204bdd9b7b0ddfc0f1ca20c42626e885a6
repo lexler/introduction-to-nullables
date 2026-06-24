@@ -1,0 +1,19 @@
+pom.xml
+  s_3e4e16036d279b::t_214e4e7014c8b6 11-12,14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.11",
+  "base_commit_sha": "50c6ce204bdd9b7b0ddfc0f1ca20c42626e885a6",
+  "prompts": {},
+  "sessions": {
+    "s_3e4e16036d279b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cf69d428-ce87-4499-b752-2f0766cb4694",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Lada Kesseler <archie.kesseler@gmail.com>"
+    }
+  }
+}
