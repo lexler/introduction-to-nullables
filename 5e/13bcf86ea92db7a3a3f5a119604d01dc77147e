@@ -1,0 +1,39 @@
+src/test/java/com/lexler/nullalbes/exercise/infrastructure/AlerterTest.java
+  s_0c07e6dbb140e0::t_85b856e0bc6db3 7,49
+src/main/java/com/lexler/nullalbes/exercise/infrastructure/http/StubbedHttpAdapter.java
+  s_0c07e6dbb140e0::t_85b856e0bc6db3 1-34
+src/main/java/com/lexler/nullalbes/exercise/infrastructure/Authorizer.java
+  s_0c07e6dbb140e0::t_85b856e0bc6db3 3,12,21,23,29,39
+src/main/java/com/lexler/nullalbes/exercise/infrastructure/http/HttpClientRequest.java
+  s_0c07e6dbb140e0::t_85b856e0bc6db3 6
+src/main/java/com/lexler/nullalbes/exercise/infrastructure/http/HttpPort.java
+  s_0c07e6dbb140e0::t_85b856e0bc6db3 1-10
+src/test/java/com/lexler/nullalbes/exercise/infrastructure/http/HttpClientWrapperTest.java
+  s_0c07e6dbb140e0::t_85b856e0bc6db3 1-37
+src/main/java/com/lexler/nullalbes/exercise/infrastructure/Alerter.java
+  s_0c07e6dbb140e0::t_85b856e0bc6db3 7,28,31,37,46
+src/main/java/com/lexler/nullalbes/exercise/infrastructure/http/RealHttpAdapter.java
+  s_0c07e6dbb140e0::t_85b856e0bc6db3 1-39
+src/main/java/com/lexler/nullalbes/exercise/infrastructure/http/HttpClientResponse.java
+  s_0c07e6dbb140e0::t_85b856e0bc6db3 5
+src/test/java/com/lexler/nullalbes/exercise/infrastructure/AuthorizerTest.java
+  s_0c07e6dbb140e0::t_85b856e0bc6db3 4,34
+src/main/java/com/lexler/nullalbes/exercise/infrastructure/http/HttpClientWrapper.java
+  s_0c07e6dbb140e0::t_85b856e0bc6db3 1-42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.11",
+  "base_commit_sha": "5e13bcf86ea92db7a3a3f5a119604d01dc77147e",
+  "prompts": {},
+  "sessions": {
+    "s_0c07e6dbb140e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dcdc4711-e146-417a-b470-8e910dc0a172",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Lada Kesseler <archie.kesseler@gmail.com>"
+    }
+  }
+}
