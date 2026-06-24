@@ -1,0 +1,19 @@
+docs/docs/links.md
+  s_8b405ee54c364d::t_27c4ec71d0f760 12-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.11",
+  "base_commit_sha": "e957251b2150e47dce682fa65807e9d68ae491a7",
+  "prompts": {},
+  "sessions": {
+    "s_8b405ee54c364d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9ab2c12e-34ce-4178-9944-2f5ea41413c9",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Lada Kesseler <archie.kesseler@gmail.com>"
+    }
+  }
+}
