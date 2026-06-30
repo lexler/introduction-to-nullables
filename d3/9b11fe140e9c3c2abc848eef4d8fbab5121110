@@ -1,0 +1,33 @@
+src/main/java/com/lexler/nullalbes/exercise/example1/EmailGateway.java
+  s_a81a8e1dc55d93::t_a1a5c7299fc9ea 5-8
+src/main/java/com/lexler/nullalbes/exercise/example1/Templates.java
+  s_a81a8e1dc55d93::t_18128139b621fb 5-8
+src/main/java/com/lexler/nullalbes/exercise/example1/TransactionLedger.java
+  s_a81a8e1dc55d93::t_3c402489994af2 14-17
+src/main/java/com/lexler/nullalbes/exercise/example1/LogSink.java
+  s_a81a8e1dc55d93::t_b12b72d9865fd4 5-8
+src/main/java/com/lexler/nullalbes/exercise/example1/AuditTrail.java
+  s_a81a8e1dc55d93::t_177a578c9b32cc 14-17
+src/main/java/com/lexler/nullalbes/exercise/example1/StatementNotifier.java
+  s_a81a8e1dc55d93::t_dc0ba0153ade31 14-17
+src/main/java/com/lexler/nullalbes/exercise/example1/Database.java
+  s_a81a8e1dc55d93::t_11739f253b758d 5-8
+src/main/java/com/lexler/nullalbes/exercise/example1/Clock.java
+  s_a81a8e1dc55d93::t_59955902c71f54 5-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "d39b11fe140e9c3c2abc848eef4d8fbab5121110",
+  "prompts": {},
+  "sessions": {
+    "s_a81a8e1dc55d93": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1688a824-6bc3-45be-88ed-b2a48ef8b4b8",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Lada Kesseler <archie.kesseler@gmail.com>"
+    }
+  }
+}
