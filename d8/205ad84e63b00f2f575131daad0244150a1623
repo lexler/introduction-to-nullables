@@ -1,0 +1,47 @@
+src/main/java/com/lexler/nullalbes/exercise/example1/LogSink.java
+  s_a81a8e1dc55d93::t_1b585e61951eb8 6-9
+src/main/java/com/lexler/nullalbes/exercise/example1/StatementNotifier.java
+  s_a81a8e1dc55d93::t_3e2888bfae393d 14-17
+src/main/java/com/lexler/nullalbes/exercise/example1/EmailGateway.java
+  s_a81a8e1dc55d93::t_5adfe005681981 6-9
+src/main/java/com/lexler/nullalbes/exercise/example1/Database.java
+  s_a81a8e1dc55d93::t_b422caba45db9a 6-9
+src/main/java/com/lexler/nullalbes/exercise/example1/TransactionLedger.java
+  s_a81a8e1dc55d93::t_bc21de89fb041a 14-17
+src/main/java/com/lexler/nullalbes/exercise/example1/RealEmailGateway.java
+  s_a81a8e1dc55d93::t_fa94537f8cc970 1-10
+src/main/java/com/lexler/nullalbes/exercise/example1/Templates.java
+  s_a81a8e1dc55d93::t_737a68c09a2efc 6-9
+src/main/java/com/lexler/nullalbes/exercise/example1/RealClock.java
+  s_a81a8e1dc55d93::t_e070c5cec56aee 1-10
+src/main/java/com/lexler/nullalbes/exercise/example1/RealTemplates.java
+  s_a81a8e1dc55d93::t_70691a1ce5bc1d 1-10
+src/main/java/com/lexler/nullalbes/exercise/example1/Account.java
+  s_a81a8e1dc55d93::t_db6b032a246feb 19-25
+src/main/java/com/lexler/nullalbes/exercise/example1/AuditTrail.java
+  s_a81a8e1dc55d93::t_249e8be217f044 14-17
+src/main/java/com/lexler/nullalbes/exercise/example1/RealDatabase.java
+  s_a81a8e1dc55d93::t_bfd1c446fc7f88 1-10
+src/main/java/com/lexler/nullalbes/exercise/example1/Clock.java
+  s_a81a8e1dc55d93::t_1c14f935392d8a 6-9
+src/main/java/com/lexler/nullalbes/exercise/example1/InterestApp.java
+  s_a81a8e1dc55d93::t_c4558d79818f03 1-14
+src/main/java/com/lexler/nullalbes/exercise/example1/RealLogSink.java
+  s_a81a8e1dc55d93::t_4b3fdd8e1b6c5b 1-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "d8205ad84e63b00f2f575131daad0244150a1623",
+  "prompts": {},
+  "sessions": {
+    "s_a81a8e1dc55d93": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1688a824-6bc3-45be-88ed-b2a48ef8b4b8",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Lada Kesseler <archie.kesseler@gmail.com>"
+    }
+  }
+}
