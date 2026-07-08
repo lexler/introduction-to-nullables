@@ -1,0 +1,21 @@
+src/test/java/com/lexler/legacy/_1_MockedLoanTest.java
+  s_0ccbf58c2b318f::t_182db60db8a4b6 28
+src/test/java/com/lexler/refactored/_4_1_LibraryTest.java
+  s_0ccbf58c2b318f::t_c829b43be1e796 20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d74e8d007aa36a97ba25d67d2de3e37b7066ae8f",
+  "prompts": {},
+  "sessions": {
+    "s_0ccbf58c2b318f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "86247df4-d4ef-43d1-a460-b487a4ceac3d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Lada Kesseler <archie.kesseler@gmail.com>"
+    }
+  }
+}
