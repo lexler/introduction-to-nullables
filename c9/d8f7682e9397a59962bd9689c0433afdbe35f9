@@ -1,0 +1,41 @@
+src/test/java/com/lexler/refactored/_2_3_NullLoanTest.java
+  s_0ccbf58c2b318f::t_2fcd4924851961 28,30,32,35,38
+  s_0ccbf58c2b318f::t_7fac7d1a7cba74 44,46,48,51,54
+  s_0ccbf58c2b318f::t_a911d4f0ea28ec 3,8-10
+src/test/java/com/lexler/refactored/_4_1_LibraryTest.java
+  s_0ccbf58c2b318f::t_2dabc3f0dee8f9 32-37
+src/test/java/com/lexler/refactored/_4_2_LibraryTest.java
+  s_0ccbf58c2b318f::t_8567131e02c6c7 34-40
+src/test/java/com/lexler/legacy/_1_MockedLoanTest.java
+  s_0ccbf58c2b318f::t_9c98e326f461e3 6-8
+  s_0ccbf58c2b318f::t_cda356e2e5852b 27,29,31,34,36,38,40
+src/test/java/com/lexler/refactored/_2_1_NullLoanTest.java
+  s_0ccbf58c2b318f::t_aca36dd22b8dca 23,26,29
+  s_0ccbf58c2b318f::t_31d62b92f6a963 3,7-9
+src/main/java/com/lexler/refactored/Library.java
+  s_0ccbf58c2b318f::t_0b404e12b086b1 7
+  s_0ccbf58c2b318f::t_8041c40c41fd76 27-30
+  s_0ccbf58c2b318f::t_af6c1f56d3bbbc 31-34
+  s_0ccbf58c2b318f::t_af806c7c9b7b9b 45-48
+src/test/java/com/lexler/refactored/_3_1_LibraryTest.java
+  s_0ccbf58c2b318f::t_f73ee6b95e25b2 24-28
+src/test/java/com/lexler/refactored/_2_2_NullLoanTest.java
+  s_0ccbf58c2b318f::t_ef08288932cf7a 3,8-10
+  s_0ccbf58c2b318f::t_c8d78fa051cf2b 25,27,30,33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c9d8f7682e9397a59962bd9689c0433afdbe35f9",
+  "prompts": {},
+  "sessions": {
+    "s_0ccbf58c2b318f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "86247df4-d4ef-43d1-a460-b487a4ceac3d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Lada Kesseler <archie.kesseler@gmail.com>"
+    }
+  }
+}
