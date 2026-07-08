@@ -1,0 +1,23 @@
+build_and_test.sh
+  s_06aaf9ded3ea18::t_37b81b48b9e95f 1-4
+mise.toml
+  s_06aaf9ded3ea18::t_2cf8da35a57fdd 9-13
+build_and_test.cmd
+  s_06aaf9ded3ea18::t_610adbff06d96f 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "03a6a56f3740fa1bb6e85e32aaa1c64868689d61",
+  "prompts": {},
+  "sessions": {
+    "s_06aaf9ded3ea18": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b51e5473-d410-4c66-980e-111b994c405c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Lada Kesseler <archie.kesseler@gmail.com>"
+    }
+  }
+}
