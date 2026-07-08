@@ -36,4 +36,4 @@ file: `_4_2_LibraryTest`
 
 Java 17+ 
 
-Running tests: `./test.sh` (Windows: `test.cmd`).
+`./test.sh` (Windows: `test.cmd`).
