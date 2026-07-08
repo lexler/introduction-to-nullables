@@ -25,7 +25,7 @@ class _1_MockedLoanTest {
         // create a mocked ResultSet
 
         // make dataSource.getConnection() return the connection: when(..).thenReturn(..)
-        // make connection.prepareStatement() return the statement when called with any string
+        // make connection.prepareStatement() return the statement when called with anyString()
         // make statement.executeQuery() return the resultSet
         // the database is empty: make resultSet.next() return false
 
